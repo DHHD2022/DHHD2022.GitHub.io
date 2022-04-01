@@ -14,10 +14,10 @@ layout: base
         <ul>
       {%- endif %}
           <li>          
-            <h4 class="title">
+            <span class="title" style="color:rgb(11, 11, 33)">
               <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
-            </h4>
-            <div class="date">{{ post.date | date: "%Y/%m/%d" }}</div>
+            </span>
+            <span class="date" style="color:rgb(98, 98, 108)">{{ post.date | date: "%Y/%m/%d" }}</span>
           </li>
       {%- if forloop.last or post_previous_year != post_year %}
         </ul>
