@@ -7,7 +7,9 @@ layout: base
     <img class="selfie" alt="{{ site.author.name }}" src="{{ site.author.selfie }}" />
     -->
     <div class="info">
-      <div class="title">关于</div>      
+      <div class="title">
+        <h1 id="team">关于</h1>
+      </div>      
     </div>
   
 <h2 id="team">网站团队</h2> 
@@ -29,4 +31,15 @@ layout: base
 <h2 id="join">加入我们</h2>
 请投送您的简历至DHHD2022@protonmail.com。
 
+<div class="content">
+  {{ content }}
+  </br>
+  <div class="social-layer">
+    <div class="social-icons">
+      <ul>
+        {% include icons.html %}
+      </ul>
+    </div>
+  </div>
+</div>
 </div>
