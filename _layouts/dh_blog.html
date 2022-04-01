@@ -13,13 +13,13 @@ layout: base
         <h2 id="{{post_year}}">{{post_year}}</h2>
         <ul>
       {%- endif %}
-          <div> 
+          <li> 
             <span class="date" style="color:rgb(98, 98, 108)">{{ post.date | date: "%Y/%m/%d" }}</span>         
             <div class="title" style="color:rgb(11, 11, 33)">
               <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
             </div>            
             <div class="categories" style="color:rgb(98, 98, 108)" >{{ post.author }}</div>
-          </div>
+          </LI>
       {%- if forloop.last or post_previous_year != post_year %}
         </ul>
       </div>
