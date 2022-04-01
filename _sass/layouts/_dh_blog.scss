@@ -54,21 +54,5 @@
     /* 设置元素两端对齐 */
     text-align: justify;
   }
-  &-box:after {
-    content: "";
-    display: inline-block;
-    overflow: hidden;
-    width: 100%;
-  }
-  &-box span {
-    width: 50px;
-    height: 50px;
-    /* 设置盒子为行内块 */
-    display: inline-block;
-    background-color: skyblue;
-    /* 设置盒子内元素水平居中 */
-    text-align: center;
-    /* 设置盒子内容垂直居中 */
-    line-height: 50px;
-}
+  
 }
