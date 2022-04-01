@@ -1,2 +1,3 @@
-# DHHD2022.GitHub.io
-Digital Humanities East Asia
+# DHHD2022
+This is the repo of our website Digital Humanities East Asia.
+

@@ -1,0 +1,62 @@
+# Site settings
+title: DH East Asia
+baseurl: ""
+url: "https://DHHD2022.github.io"
+google_analytics: G-7853LL252Q # Tracking ID, e.g. "UA-000000-01"
+
+# Author
+author:
+  name: Digital Humanities East Asia
+  desc: 东亚数字人文
+  email: DHHD2022@protonmail.com
+  selfie: assets/img/profile.png
+
+# social
+social:
+  email: true
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: 
+  flickr:
+  github: dhhd2922
+  google_plus:
+  instagram:
+  keybase:
+  linkedin:  
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:
+  steam:
+  tumblr:
+  gitlab:
+  twitter: 
+  vimeo:
+  wordpress:
+  youtube:
+  default_txt: "Follow On"
+
+# Build settings
+markdown: kramdown
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate_path: "/dh_news/page:num/"
+paginate: 10
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gem"
+  - "LICENSE"
+  - "READE.md"
+  - "screenshot.png"
