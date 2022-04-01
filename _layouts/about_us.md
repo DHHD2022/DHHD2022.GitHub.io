@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: base
 ---
 
 # 网站团队
