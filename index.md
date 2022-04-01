@@ -43,6 +43,8 @@ layout: about
   * [中国历代人物资料传记资料库](https://projects.iq.harvard.edu/cbdb/home) China Biographical Database Project (CBDB)
   * [中国近代人物资料数据库](https://heurist.huma-num.fr/h6-alpha/?db=ModernChinaBiographicalDatabase&website&id=109237) Modern China Biographical Database (MCBD)
   * [近现代人物资讯整合系统](https://mhdb.mh.sinica.edu.tw/mhpeople/index.php)
+* 照片数据库
+  * [HISTORICAL PHOTOGRAPHS OF CHINA](https://www.hpcbristol.net/) 布里斯托大学
 
 <br/>
 
