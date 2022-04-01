@@ -1,7 +1,15 @@
 ---
 layout: base
 ---
-
+<div class="about_us">
+ <!--这里放团队照片
+  <div class="profile">
+    <img class="selfie" alt="{{ site.author.name }}" src="{{ site.author.selfie }}" />
+    -->
+    <div class="info">
+      <div class="title">关于</div>      
+    </div>
+  </div>
 # 网站团队
 本网站由一个关心数字人文的小团队运行维护。
 
