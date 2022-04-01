@@ -1,4 +1,4 @@
-.dh_news {
+.dh_blog {
   &-item {
     border-bottom: 1px solid $grey-2;
     color: $default-color;
@@ -16,7 +16,7 @@
   }
   
   &-title {
-    color: $default-shade;
+    color: $default-color;
     display: block;
     font-family: $sans-serif;
     font-size: 2rem;
