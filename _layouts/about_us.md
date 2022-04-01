@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 ---
 
 # 网站团队
