@@ -47,46 +47,46 @@
   &-icon-text {
     margin-left: 0.8rem;
   }
-}
+
 
 .listpost > h2 {
-  font-size: 15px;
+  font-size: 24px;
   font-weight: bold;
   padding: 12px 0;
 }
 .listpost ul {
   box-sizing: border-box;
-  padding-left: 15px;
+  padding-left: 17px;
 }
 .listpost li {
   display: flex;
   align-items: center;
-  padding: 8px 0;
+  padding: 10px 0;
 }
 .listpost li .date {
   color: #666666;
-  font-size: 14px;
+  font-size: 16px;
   flex-shrink: 0;
-  margin-right: 10px;
+  margin-right: 12px;
 }
 .listpost li .title {
   width: 0;
   flex-grow: 1;
-  padding: 4px 0;
+  padding: 6px 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 .listpost li .title a {
-  font-size: 15px;
+  font-size: 18px;
 }
 .listpost li .categories {
   flex-shrink: 0;
-  padding: 3px 0;
+  padding: 5px 0;
   margin-left: 10px;
 }
 .listpost li .categories a {
-  font-size: 12px;
+  font-size: 14px;
   color: #666666;
   margin-left: 8px;
 }
@@ -177,4 +177,4 @@
     font-size: 14px;
   }
 }
-
+}

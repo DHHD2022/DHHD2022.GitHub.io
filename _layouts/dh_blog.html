@@ -2,7 +2,7 @@
 layout: base 
 ---
 
-<div class="listpost">
+<div class="dh_blog">
   {% for post in site.posts  -%}
     {% if post.categories contains 'dh_blog' %}   
       {%- capture post_year %}{{ post.date | date: "%Y" }}{% endcapture -%}
