@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "日本数字人文研究工具"
+info: 处理日语材料或更广泛的亚洲语言而设计的数字人文工具。
+keywords: "日本，数字人文工具，亚洲"
+author: XJ
+categories: dh_index
+---
+
+原文见[DH Japan: Resource Wiki](http://dhjapan.org/wiki/doku.php?id=tools)      
+
+以下是专门为处理日语材料或更广泛的亚洲语言而设计的数字人文资源。更多一般意义而言的数字人文工具，请参见本页面底部的链接。
+
+## 日本专用
+
+### Concordance 语言分析
+
+-  [ひまわり](https://www2.ninjal.ac.jp/lrc/index.php?%C1%B4%CA%B8%B8%A1%BA%F7%A5%B7%A5%B9%A5%C6%A5%E0%A1%D8%A4%D2%A4%DE%A4%EF%A4%EA%A1%D9) - 一个为语言研究设计的全文检索系统
+-  [Voyant](http://voyant-tools.org/?lang=ja) - 基于网络的文本阅读、分析的环境
+-  [KH Coder](https://khcoder.net/en/) - 定量内容分析或文本挖掘
+
+### Dictionaries (for use with word segmenters) 词典（单词分割器）
+
+-  [IPAdic](https://osdn.net/projects/ipadic/)
+-  [UniDic](http://chamame.ninjal.ac.jp/chamame_unidic_download.html)
+
+### Mapping/Geocoding 绘图/地理编码 
+
+-  [Actor Atlas](https://www.actor-atlas.info/ja:japan)
+-  [The Shin Tôto Saijiki (A DemiScript Augmented Picture Map)](http://european-edo-network.org/projects/shintotosaijiki/)
+
+### OCR 文字识别
+
+-  [Tesseract](https://github.com/tesseract-ocr)
+-  [ETypist](https://mediadrive.jp/products/et/)
+-  [ABBYY FineReader](https://www.abbyy.com/en-us/finereader/)
+-  [KuroNet](https://mp.ex.nii.ac.jp/kuronet/)
+-  [miwo](http://codh.rois.ac.jp/miwo/)
+
+### Temporal Conversion/Analysis 时间转换、分析
+
+-  [HuTime](http://www.hutime.org/)
+-  [Kanreki](https://maechan.net/kanreki/)
+-  [NengoCalc](http://www.yukikurete.de/nengo_calc.htm)
+
+### Text Analysis 文本分析
+
+-  [CTP Text Tools](http://ctext.org/plugins/texttools/) (works with pre-tokenized Japanese)
+-  [KH Coder](http://khcoder.net/)
+-  [Voyant](http://voyant-tools.org)
+-  [KH Coder](https://khcoder.net/en/)
+
+### Word Segmentation, Part of Speech Tagging 单词分割、语音标记
+
+-  [CaboCha](http://taku910.github.io/cabocha/)
+-  [茶まめ](http://chamame.ninjal.ac.jp/)
+-  [ChaSen](http://chasen-legacy.osdn.jp/)
+-  [Comainu](http://comainu.org/)
+-  [KyTea](http://www.phontron.com/kytea/)
+-  [kuromoji](https://www.atilika.org/)
+-  [Japanese Text Analyzer](https://play.google.com/store/apps/details?id=org.mightyfrog.android.japanesetextanalyzer)
+-  [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?cmd=read&page=JUMAN&alias[]=日本語形態素解析システムJUMAN)
+-  [Nagisa](https://github.com/taishi-i/nagisa)
+-  [MeCab](https://taku910.github.io/mecab/)
+-  [TinySegmenter](http://chasen.org/~taku/software/TinySegmenter/) (Javascript)
+-  [Rakuten](https://github.com/rakuten-nlp/rakutenma) (Javascript)
+-  [Rakuten MA Python](https://github.com/ikegami-yukino/rakutenma-python) (Python module)
+-  [Japanese segmenter Jupyter notebook](https://github.com/quinnanya/japanese-segmenter) (for non-technical folks)
+
+## 更多数字工具
+
+以下是一个正在进行的数字和人文研究的工具列表。该表格分为几个子部分（可能有重叠）。可视化、绘图、时间线、注释、OCR、数据/数据库、数据清理等等。
+
+-  **[更多数字人文工具](https://airtable.com/shrwvA6sWGOPJKzPI)**
+
