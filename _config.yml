@@ -1,12 +1,12 @@
 # Site settings
-title: DH East Asia
+title: HEAD
 baseurl: ""
 url: "https://DHHD2022.github.io"
 google_analytics: G-7853LL252Q # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Digital Humanities East Asia
+  name: Heidelberg East Asian Digital Humanities 
   desc: 东亚数字人文
   email: DHHD2022@protonmail.com
   selfie: assets/img/profile.png
