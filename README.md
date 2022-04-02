@@ -9,7 +9,7 @@ GitHub设置教程见[WIKI](https://github.com/DHHD2022/DHHD2022.GitHub.io/wiki/
 .    
 ├── _config.yml *网站重要元数据，请勿修改*       
 ├── _includes    
-|   ├── head.html *网页尾部文件*    
+\|   ├── head.html *网页尾部文件*    
 |   └── icons.html *网页图标文件*    
 ├── _layouts    
 |   ├── about_us.html *‘关于’页面版式*    
