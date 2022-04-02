@@ -6,11 +6,11 @@ This is the repo of our website Digital Humanities East Asia.
 GitHub设置教程见[WIKI](https://github.com/DHHD2022/DHHD2022.GitHub.io/wiki/%E7%94%A8GitHub-Desktop%E5%90%8C%E6%AD%A5%E7%BD%91%E7%AB%99%E6%95%B0%E6%8D%AE)。
 
 ## 文件结构
-.
-├── _config.yml *网站重要元数据，请勿修改*     
+.    
+├── _config.yml *网站重要元数据，请勿修改*       
 ├── _includes    
-|   ├── head.html *网页尾部文件*    
-|   └── icons.html *网页图标文件*    
+ \|   ├── head.html *网页尾部文件*    
+ |   └── icons.html *网页图标文件*    
 ├── _layouts    
 |   ├── about.html *‘关于’页面版式*    
 |   ├── about.html *首页版式*    
