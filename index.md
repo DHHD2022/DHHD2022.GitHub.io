@@ -1,31 +1,8 @@
 ---
-layout: about 
+layout: home 
 ---
 
-# 什么是数字人文？
-数字人文（Digital Humanities，简称DH）指的是在研究方法、成果呈现、传播媒介中运用数字方法和计算技术。
 
-典型的数字人文项目会同时运用数字与非数字手段来进行研究设计。非数字技术研究往往受制于文献材料的数量或复杂性，而运用数字技术使研究者得以探索非数字技术所难以回答的问题，同时也可使公众能够参与到研究中。
-
-二十一世纪以来，东亚数字人文领域发展极快。“东亚数字人文”概念，指的是所有关于东亚学（East Asian Studies）的数字人文研究。值得注意的是，在欧美学术机构中，也有着大量与之相关的学术研究。中国的数字人文也在近些年来成为学术潮流。本站辑录东亚DH动态、DH项目，为数字人文研究提供便利。
-
-<br/>
-
-# 数字人文机构
-* 中国大陆
-  * [中国人民大学数字人文研究中心](http://dh.ruc.edu.cn/jggk/zxjj/index.htm) - Research Center for Digital Humanities of RUC. 中国人民大学
-  * [北京大学数字人文研究中心](https://kvlab.org/) - Digital Humanities @PKU. 北京大学
-  * [武汉大学数字人文研究中心](http://dh.whu.edu.cn) - Center for Digital Humantities Wuhan University. 武汉大学
-  * [南京大学数字人文创研中心](https://ias.nju.edu.cn/szrwcyzx/list.htm). 南京大学
-* 台湾地区
-  * [中研院-數位人文學研究室](http://www3.ihp.sinica.edu.tw/dhrctw/). 台湾中央研究院
-  * [台灣大學數位人文研究中心](http://www.digital.ntu.edu.tw/). 国立台湾大学
-* 国际
-  * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
-  * [ENP-China](https://www.enpchina.eu/)
-  
-
-<br/>
 
 # 实用平台
 * 综合平台
@@ -45,6 +22,22 @@ layout: about
   * [近现代人物资讯整合系统](https://mhdb.mh.sinica.edu.tw/mhpeople/index.php)
 * 照片数据库
   * [HISTORICAL PHOTOGRAPHS OF CHINA](https://www.hpcbristol.net/) 布里斯托大学
+
+<br/>
+
+# 数字人文机构
+* 中国大陆
+  * [中国人民大学数字人文研究中心](http://dh.ruc.edu.cn/jggk/zxjj/index.htm) - Research Center for Digital Humanities of RUC. 中国人民大学
+  * [北京大学数字人文研究中心](https://kvlab.org/) - Digital Humanities @PKU. 北京大学
+  * [武汉大学数字人文研究中心](http://dh.whu.edu.cn) - Center for Digital Humantities Wuhan University. 武汉大学
+  * [南京大学数字人文创研中心](https://ias.nju.edu.cn/szrwcyzx/list.htm). 南京大学
+* 台湾地区
+  * [中研院-數位人文學研究室](http://www3.ihp.sinica.edu.tw/dhrctw/). 台湾中央研究院
+  * [台灣大學數位人文研究中心](http://www.digital.ntu.edu.tw/). 国立台湾大学
+* 国际
+  * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
+  * [ENP-China](https://www.enpchina.eu/)
+  
 
 <br/>
 

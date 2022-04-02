@@ -12,7 +12,7 @@ GitHub设置教程见[WIKI](https://github.com/DHHD2022/DHHD2022.GitHub.io/wiki/
 |   ├── head.html *网页尾部文件*    
 |   └── icons.html *网页图标文件*    
 ├── _layouts    
-|   ├── about_us.html *‘关于’页面版式*    
+|   ├── about.html *‘关于’页面版式*    
 |   ├── about.html *首页版式*    
 |   ├── base.html *base版式*    
 |   ├── dh_blog.html    
@@ -20,14 +20,14 @@ GitHub设置教程见[WIKI](https://github.com/DHHD2022/DHHD2022.GitHub.io/wiki/
 |   ├── dh_news.html    
 |   └── post.html *post页面版式*    
 ├── _sass *网页css设定*    
-|   ├── about_us.html *‘关于’页面*    
+|   ├── about.html *‘关于’页面*    
 |   ├── about.html *首页*    
 |   ├── base.html    
 |   ├── dh_blog.html    
 |   ├── dh_index.html    
 |   ├── dh_news.html    
 |   └── post.html    
-├── about_us *关于页面文件夹*        
+├── about *关于页面文件夹*        
 |   └── index.md *关于页面内容*
 ├── assets *素材（图片、字体）文件夹，不用管*    
 |   └──...       
