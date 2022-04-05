@@ -1,20 +1,35 @@
 ---
 layout: home 
 ---
-
+# 推荐关注
+* [数字人文](https://www.dhlib.cn/)
+* [北京大学数字人文研究中心](https://pkudh.org/)
+* [centerNet](https://dhcenternet.org/) 国际数字人文中心网络
 
 
 # 实用平台
-* 综合平台
+* 综合平台 
   * [Docusky](https://docusky.org.tw/DocuSky/home/v5/) 國立臺灣大學數位人文研究中心
+  * [北京大学开放研究数据平台](https://opendata.pku.edu.cn/) 北京大学
+  * [鏈結開放資料平台](https://data.ascdc.tw/) 臺灣中央研究院數位文化中心 
+  * [上海图书馆开放数据平台](http://data.library.sh.cn/index)
 * 古籍研读
   * [“汉典重光”古籍数字化平台](https://wenyuan.aliyun.com/home) 由阿里巴巴、川大、国图等共建
   * [“吾与点”古籍自动整理系统](https://wyd.kvlab.org/) 北京大学数字人文研究中心
   * [智慧古籍平台](https://csab.zju.edu.cn/) 浙江大学
   * [籍合网](http://www.ancientbooks.cn/) 中华书局
+  * [汉典古籍](https://gj.zdic.net/)
+  * [中国哲学书电子化计划Ctext]（https://ctext.org/zhs）
+  * [廣廈千萬間](https://tenthousandrooms.yale.edu/)
+  * [古籍酷]（https://www.gj.cool/gjcool/index）龙泉寺
+  * [古诗文断句](https://seg.shenshen.wiki/) 北师大 
+* 文本
+  * [Markus](https://dh.chinese-empires.eu/markus/beta/) 莱顿大学
+  * [intertext](http://edoc.uchicago.edu/textccr/textconcordancer.php) 芝加哥大学
 * GIS
   * [中国历史地理信息平台](http://timespace-china.fudan.edu.cn/) 复旦大学历史地理研究中心
   * [学术地图发布平台AMAP](http://amap.zju.edu.cn/) 浙江大学社会科学研究院与哈佛大学地理分析中心共同建设
+  * [CHGIS](https://sites.fas.harvard.edu/~chgis/) 哈佛大学
   * [Land Survey Maps of China: A Cartographic Database (1885–1945)](https://chmap.mpiwg-berlin.mpg.de/lgtu/) 德国柏林马普所
 * 人物 
   * [中国历代人物资料传记资料库](https://projects.iq.harvard.edu/cbdb/home) China Biographical Database Project (CBDB)
@@ -31,13 +46,16 @@ layout: home
   * [北京大学数字人文研究中心](https://kvlab.org/) - Digital Humanities @PKU. 北京大学
   * [武汉大学数字人文研究中心](http://dh.whu.edu.cn) - Center for Digital Humantities Wuhan University. 武汉大学
   * [南京大学数字人文创研中心](https://ias.nju.edu.cn/szrwcyzx/list.htm). 南京大学
-* 台湾地区
+* 港台地区
   * [中研院-數位人文學研究室](http://www3.ihp.sinica.edu.tw/dhrctw/). 台湾中央研究院
   * [台灣大學數位人文研究中心](http://www.digital.ntu.edu.tw/). 国立台湾大学
+  * [香港公開大學數碼文化與人文學科研究所](http://www.ouhk.edu.hk/wcsprd/Satellite?d=Touch&l=C_ASS&lang=chi&lid=1385176377965&pagename=OUHK%2FtcSubWeb)
 * 国际
   * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
+  * [Digital Humanities Japan](http://dhjapan.org/)
   * [ENP-China](https://www.enpchina.eu/)
-  
+  * [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/)
+  * [莱顿大学数字人文中心](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities)
 
 <br/>
 
