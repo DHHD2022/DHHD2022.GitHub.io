@@ -19,9 +19,9 @@ layout: home
   * [智慧古籍平台](https://csab.zju.edu.cn/) 浙江大学
   * [籍合网](http://www.ancientbooks.cn/) 中华书局
   * [汉典古籍](https://gj.zdic.net/)
-  * [中国哲学书电子化计划Ctext]（https://ctext.org/zhs）
+  * [中国哲学书电子化计划Ctext](https://ctext.org/zhs)
   * [廣廈千萬間](https://tenthousandrooms.yale.edu/)
-  * [古籍酷]（https://www.gj.cool/gjcool/index）龙泉寺
+  * [古籍酷](https://www.gj.cool/gjcool/index) 龙泉寺
   * [古诗文断句](https://seg.shenshen.wiki/) 北师大 
 * 文本
   * [Markus](https://dh.chinese-empires.eu/markus/beta/) 莱顿大学
