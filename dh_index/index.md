@@ -1,5 +1,5 @@
 ---
-layout: home 
+layout: base 
 ---
 # 推荐关注
 * [数字人文](https://www.dhlib.cn/)
