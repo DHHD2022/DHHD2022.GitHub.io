@@ -73,3 +73,7 @@ layout: base
 
 <br/>
 
+## 全网英文界面东亚数字人文项目汇总表
+  转载自 *http://prcurtis.com/DH/resources/* 请点击右下方“View larger version”放大此表格。
+  <iframe class="airtable-embed" src="https://airtable.com/embed/shrP9P1NSQXoG7Dhw?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> 
+  <hr />
