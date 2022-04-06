@@ -22,11 +22,12 @@ title: about
 * XIE Jia
   * 三人均为德国海德堡大学亚洲与跨文化研究中心博士生
 
-
 <br/>
 
 # 加入我们
 欢迎有兴趣更新DH信息的师生朋友加入我们，请投送您的简历至DHHD2022@protonmail.
+
+<br/>
 
 # 鸣谢
 感谢Matthias Arnold对网站的支持；本网站依托GitHub Pages服务。
