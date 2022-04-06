@@ -3,7 +3,7 @@ layout: base
 ---
 
 <div class="dh_news">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% if post.categories contains 'dh_news' %}     
       <a href="{{ post.url | prepend: site.baseurl }}" class="dh_news-item">
         <div>
