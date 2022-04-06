@@ -2,31 +2,32 @@
 layout: base 
 ---
 
+
+
 <div class="dh_blog">
-  {% for post in site.posts  -%}
-    {% if post.categories contains 'dh_blog' %}   
-      {%- capture post_year %}{{ post.date | date: "%Y" }}{% endcapture -%}
-      {%- capture post_previous_year %}{{ post.previous.date | date: "%Y" }}{% endcapture -%}
-      {%- capture post_next_year %}{{ post.next.date | date: "%Y" }}{% endcapture -%}
-      
-      <div class="listpost">
-        <h2 id="{{post_year}}">{{post_year}}</h2>
-        <ul>
-      
-          <li> 
-            <span class="date" style="color:rgb(98, 98, 108)">{{ post.date | date: "%Y/%m/%d" }}</span>         
-            <div class="title" style="color:rgb(11, 11, 33)">
-              <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
-            </div>            
-            <div class="categories" style="color:rgb(98, 98, 107)" >{{ post.author }}</div>
-          </li>
-      {%- if forloop.last or post_previous_year != post_year %}
-        </ul>
-      </div>
-      {%- endif %}
-    {%- endif %}
-  {%- endfor %}
+  {% for post in paginator.posts %}
+    {% if post.categories contains 'dh_blog' %}     
+      <a href="{{ post.url | prepend: site.baseurl }}" class="dh_blog-item">
+        <div>
+          <h1 class="dh_blog-title">{{ post.title }}</h1>
+          <div class="dh_blog-line"></div>
+
+          <div class="dh_blog-content"> 
+            <span class="dh_blog-icon">
+                <i class="fa fa-sticky-note"></i><span class="dh_blog-icon-text">[{{ post.type }}] {{ post.info }}</span>
+            </span>
+            </br>
+            <span class="dh_blog-icon">
+                <i class="fa fa-calendar-alt"></i><span class="dh_blog-icon-text">{{ post.date | date: "发布时间 %Y-%m-%d" }}</span>
+            </span>
+            </br>
+            <span class="dh_blog-icon">
+                <i class="fa fa-asterisk"></i><span class="dh_blog-icon-text">{{ post.tech }}</span>
+            </span>
+          </div>
+        </div>
+      </a>
+      </br> 
+    {% endif %}   
+  {% endfor %}
 </div>
-</br>
-
-
