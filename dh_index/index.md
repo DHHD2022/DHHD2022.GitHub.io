@@ -6,7 +6,8 @@ layout: base
 * [北京大学数字人文研究中心](https://pkudh.org/)
 * [Dhd-Blog](https://dhd-blog.org/)
 * [centerNet](https://dhcenternet.org/) 国际数字人文中心网络
-
+  
+<br/>
 
 # 实用平台
 * 综合平台 
