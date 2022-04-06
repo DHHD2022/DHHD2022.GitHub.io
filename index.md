@@ -6,7 +6,7 @@ layout: home
 ## ▾ 网站导航
 <br/>    
     
-\>>  [**新知**]({{ '/dh_blog' | prepend: site.baseurl }}/)　\|　数字人文领域新鲜知识和思考
+\>>  <div class="hover-underline">[**新知**]({{ '/dh_blog' | prepend: site.baseurl }}/)</div>　\|　数字人文领域新鲜知识和思考
 
 \>> [**资讯**]({{ '/dh_news' | prepend: site.baseurl }}/)　\|　掌握数字人文最近新闻和动态
 
