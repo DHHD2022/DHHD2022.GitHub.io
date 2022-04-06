@@ -26,4 +26,7 @@ title: about
 <br/>
 
 # 加入我们
-欢迎有兴趣更新DH信息的师生朋友加入我们，请投送您的简历至DHHD2022@protonmail.com
+欢迎有兴趣更新DH信息的师生朋友加入我们，请投送您的简历至DHHD2022@protonmail.
+
+# 鸣谢
+感谢Matthias Arnold对网站的支持；本网站依托GitHub Pages服务。
