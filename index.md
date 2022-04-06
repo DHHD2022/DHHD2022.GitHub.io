@@ -4,6 +4,7 @@ layout: home
 # 推荐关注
 * [数字人文](https://www.dhlib.cn/)
 * [北京大学数字人文研究中心](https://pkudh.org/)
+* [Dhd-Blog](https://dhd-blog.org/)
 * [centerNet](https://dhcenternet.org/) 国际数字人文中心网络
 
 
@@ -51,11 +52,12 @@ layout: home
   * [台灣大學數位人文研究中心](http://www.digital.ntu.edu.tw/). 国立台湾大学
   * [香港公開大學數碼文化與人文學科研究所](http://www.ouhk.edu.hk/wcsprd/Satellite?d=Touch&l=C_ASS&lang=chi&lid=1385176377965&pagename=OUHK%2FtcSubWeb)
 * 国际
-  * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
-  * [Digital Humanities Japan](http://dhjapan.org/)
   * [ENP-China](https://www.enpchina.eu/)
+  * [海德堡大学HRA]（http://hra.uni-hd.de/）
   * [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/)
   * [莱顿大学数字人文中心](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities)
+  * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
+  * [Digital Humanities Japan](http://dhjapan.org/)
 
 <br/>
 
