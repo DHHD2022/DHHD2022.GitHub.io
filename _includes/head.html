@@ -1,9 +1,22 @@
+{%- assign buildAt = site.time | date: "%Y%m%d%H%M%S" -%}
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}-{{ site.title }}</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="content-language" content="zh-CN" />
 
-  <title>{{ site.title }}</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="applicable-device" content="pc,mobile">
 
+  <link rel="prefetch" href="{{site.baseurl}}/assets/xml/search.xml?t={{ buildAt }}">
+  <link rel="prefetch" href="{{site.baseurl}}/assets/js/search.js?t={{ buildAt }}">
+  <script>
+    window.blog = {
+      baseurl:"{{site.baseurl}}",
+      buildAt:"{{buildAt}}",
+      
+    }
+  </script>
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">

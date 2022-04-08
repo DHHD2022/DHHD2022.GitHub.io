@@ -1,0 +1,22 @@
+---
+layout: search
+title: search
+---
+<div class="page-search">
+    <input id="search-input" type="text" placeholder="请在此输入关键词"></input>
+    <h1>
+      <span>搜索结果</span>
+      <img src="{{site.baseurl}}/assets/img/loading.svg">
+    </h1>
+    <ul class="list-search">
+      {%- for post in site.posts  %}
+      <li hidden>
+        <a href="{{site.baseurl}}{{ post.url }}">
+          <p class="title">{{ post.title }}</p>
+          <p class="content"></p>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+  
