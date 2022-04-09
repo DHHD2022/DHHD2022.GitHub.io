@@ -1,5 +1,6 @@
 ---
 layout: home 
+title: 数字人文咨询站
 ---
 
 

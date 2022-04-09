@@ -1,5 +1,6 @@
 ---
 layout: base 
+title: 资源索引
 ---
 # 推荐关注
 * [数字人文](https://www.dhlib.cn/) 清华大学
