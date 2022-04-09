@@ -1,6 +1,6 @@
 ---
 layout: home 
-title: 数字人文咨询站
+title: 东亚数字人文学术站
 ---
 
 

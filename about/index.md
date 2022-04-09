@@ -1,6 +1,6 @@
 ---
 layout: about 
-title: about 
+title: 关于我们 
 ---
 # 什么是数字人文？
 数字人文（Digital Humanities，简称DH）指的是在研究方法、成果呈现、传播媒介中运用数字方法和计算技术。
