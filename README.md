@@ -32,7 +32,7 @@ GitHub设置教程见[WIKI](https://github.com/DHHD2022/DHHD2022.GitHub.io/wiki/
 &emsp;   ├── dh_news.html    
 &emsp;   └── post.html    
 ├── about *关于页面文件夹*        
-&emsp;   └── index.md *关于页面内容*
+&emsp;   └── index.md *关于页面内容*    
 ├── assets *素材（图片、字体）文件夹，不用管*    
 &emsp;   └──...       
 ├── dh_blog *DH新知文件夹*    
