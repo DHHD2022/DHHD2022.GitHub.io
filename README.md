@@ -38,8 +38,7 @@ GitHub设置教程见[WIKI](https://github.com/DHHD2022/DHHD2022.GitHub.io/wiki/
 |   ├── _posts *DH资讯文章*    
 |   └── index.html    
 ├── dh_index *DH索引文件夹*    
-|   ├── _posts *DH索引文章*    
-|   └── index.html    
+|   └── index.html     
 ├── LICENSE    
 ├── README.md *本文档*    
 └── index.html *首页*    
