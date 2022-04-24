@@ -7,6 +7,7 @@ title: 资源索引
 * [北京大学数字人文研究中心](https://pkudh.org/)
 * [Dhd-Blog](https://dhd-blog.org/)
 * [CenterNet](https://dhcenternet.org/) 国际数字人文中心网络
+* [海德堡大学HRA](http://hra.uni-hd.de/)
 
 <br/>
 
@@ -34,6 +35,7 @@ title: 资源索引
   * [学术地图发布平台AMAP](http://amap.zju.edu.cn/) 浙江大学社会科学研究院与哈佛大学地理分析中心共同建设
   * [CHGIS](https://sites.fas.harvard.edu/~chgis/) 哈佛大学
   * [Land Survey Maps of China: A Cartographic Database (1885–1945)](https://chmap.mpiwg-berlin.mpg.de/lgtu/) 德国柏林马普所
+  * [MCGD（现代中国地理空间数据库）](https://analytics.huma-num.fr/enpchina/MCGD_interface/) 法国ENP-China
 * 人物 
   * [中国历代人物资料传记资料库](https://projects.iq.harvard.edu/cbdb/home) China Biographical Database Project (CBDB)
   * [中国近代人物资料数据库](https://heurist.huma-num.fr/h6-alpha/?db=ModernChinaBiographicalDatabase&website&id=109237) Modern China Biographical Database (MCBD)
