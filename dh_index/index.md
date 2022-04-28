@@ -58,6 +58,7 @@ title: 资源索引
 * 国际
   * [ENP-China](https://www.enpchina.eu/)
   * [海德堡大学HRA](http://hra.uni-hd.de/)
+  * [The Digital Orientalist](https://digitalorientalist.com/)
   * [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/)
   * [莱顿大学数字人文中心](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities)
   * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
