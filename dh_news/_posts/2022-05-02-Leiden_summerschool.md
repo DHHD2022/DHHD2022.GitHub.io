@@ -10,10 +10,10 @@ categories: dh_news
 原文链接: https://www.arts.kuleuven.be/digitalhumanities/english/dh-training/DH_summer_school_Leuven_Leiden_Liege
 
 ## 重要信息
-活动时间：2022年6月20-23日
-参与方式：线上参与
-注册费用：5月20日前注册为25欧元；5月20日之后为35欧元
-联系信箱：LIT.DH@hum.leidenuniv.nl
+活动时间：2022年6月20-23日    
+参与方式：线上参与    
+注册费用：5月20日前注册为25欧元；5月20日之后为35欧元    
+联系信箱：LIT.DH@hum.leidenuniv.nl    
 
 ## 活动简介
 
