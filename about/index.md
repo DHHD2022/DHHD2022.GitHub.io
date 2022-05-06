@@ -25,7 +25,7 @@ title: 关于我们
 <br/>
 
 # 加入我们
-欢迎有兴趣更新DH信息的师生朋友加入我们，请投送您的简历至DHHD2022@protonmail.
+欢迎有兴趣更新DH信息的师生朋友加入我们，请投送您的简历至DHHD2022\[at\]protonmail.com
 
 <br/>
 
