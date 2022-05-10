@@ -11,12 +11,12 @@ title: über uns
 
 Unser kürzlich gestartetes Projekt ["DH Terms Translation Dictionary"](https://github.com/xiejia1995/DH-terms-translation-dictionary) mit offenem Zugang zu den Daten bietet eine Referenz für chinesische Übersetzungen im Bereich der digitalen Geisteswissenschaften.
 
-   <br/>
+<br/>
 
 # Über diese Website
 Die Academic Website "Heidelberg East Asian Digital Humanities Studies", kurz "HEADs", wurde im Frühjahr 2022 offiziell ins Leben gerufen und wird von einem Team von Wissenschaftlern, die sich mit digitalen Geisteswissenschaften beschäftigen, gestaltet und betrieben. Ziel dieser Website ist es, chinesische Leser mit akademischen Informationen zu den digitalen Geisteswissenschaften zu versorgen, einschließlich der Übersetzung fremdsprachiger akademischer Ressourcen zu den digitalen Geisteswissenschaften, des Austauschs über Entwicklungen in den digitalen Geisteswissenschaften und der Vorstellung von Projekten zu den digitalen Geisteswissenschaften. Bitte geben Sie die Quelle für den Inhalt dieser Website an wenn weiterleiten.
 
-   <br/>
+<br/>
 
 # Teammitglieder
 
