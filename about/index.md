@@ -2,6 +2,9 @@
 layout: about 
 title: 关于我们 
 ---
+
+(You may switch to [EN](https://dhhd2022.github.io/about/en) version of this page.)
+    
 # 数据发布
 
 我们最近发起的项目：[“数字人文领域学术术语翻译词典”](https://github.com/xiejia1995/DH-terms-translation-dictionary)，数据开放获取，为DH领域内的中文翻译提供参考。
