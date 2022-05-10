@@ -2,7 +2,14 @@
 layout: about 
 title: 关于我们 
 ---
+# 数据发布
+
+我们最近发起的项目：[“数字人文领域学术术语翻译词典”](https://github.com/xiejia1995/DH-terms-translation-dictionary)，数据开放获取，为DH领域内的中文翻译提供参考。
+
+<br/>
+
 # 什么是数字人文？
+
 数字人文（Digital Humanities，简称DH）指的是在研究方法、成果呈现、传播媒介中运用数字方法和计算技术。
 
 典型的数字人文项目会同时运用数字与非数字手段来进行研究设计。非数字技术研究往往受制于文献材料的数量或复杂性，而运用数字技术使研究者得以探索非数字技术所难以回答的问题，同时也可使公众能够参与到研究中。
@@ -17,8 +24,8 @@ title: 关于我们
 <br/>
 
 # 团队成员
-* ZHANG Shimin
-* CHANG Xiaojie
+* ZHANG Shimin 
+* CHANG Xiaojie 
 * XIE Jia
   * 三人均为德国海德堡大学亚洲与跨文化研究中心博士生
 
