@@ -1,7 +1,11 @@
 ---
 layout: about 
 title: About us 
+
 ---
+
+<div style="text-align: center">(Choose the language of this page:  <a href="https://dhhd2022.github.io/about/en">English</a> / <a href="https://dhhd2022.github.io/about/zh">繁體中文</a>  / <a href="https://dhhd2022.github.io/about/de">Deutsch</a> / <a href="https://dhhd2022.github.io/about/jp">日本語)</a></div>
+
 # Data Release
 Our recently launched project: [“DH-terms-translation-dictionary”](https://github.com/xiejia1995/DH-terms-translation-dictionary), Open Access, as a reference for Chinese translations within the DH field.
 
@@ -18,10 +22,10 @@ Our team consists of three members, all PhD students at the Centre for Asian and
 
 * ZHANG Shimin 张诗敏 (MPhil) 
   * Her main research areas are contemporary Chinese paper culture, affective structures and gender studies, popular music, digital media and platform culture, and contemporary intercultural interaction in East Asia.    
-    
+  
 * CHANG Xiaojie 常晓婕 (M.A.) 
   * Her main areas of research are Chinese literature, literary translation and computer-assisted translation (Chinese, English and German), psychoanalysis, human geography, and virtual community culture. She is a creator of visual arts.    
-    
+  
 * XIE Jia 谢佳 (M.A.)
   * His main research areas are the study of modern Chinese newspapers, the modern literature of the Wu-speaking area, the construction of multilingual digital infrastructure, and the study of transcultural digital humanities. He is also a programming enthusiast.
 
