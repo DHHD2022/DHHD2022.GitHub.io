@@ -22,11 +22,11 @@ Die Academic Website "Heidelberg East Asian Digital Humanities Studies", kurz "H
 
 Unser Team besteht aus drei Mitgliedern, allesamt Doktoranden am Zentrum für Asien- und Transkulturelle Studien der Universität Heidelberg, Deutschland.
 
-* ZHANG Shimin 张诗敏 (MPhil) 
+* ZHANG Shimin 张诗敏  
   * Ihre Forschungsschwerpunkte sind zeitgenössische chinesische Papierkultur, affektive Strukturen und Gender Studies, populäre Musik, digitale Medien und Plattformkultur sowie zeitgenössische interkulturelle Interaktion in Ostasien.
-* CHANG Xiaojie 常晓婕 (M.A.) 
+* CHANG Xiaojie 常晓婕  
   * Ihre Forschungsschwerpunkte sind chinesische Literatur, literarische Übersetzung und computergestützte Übersetzung (Chinesisch-Englisch-Deutsch), Psychoanalyse, Humangeographie und Kultur virtueller Gemeinschaften. Sie ist ein Schöpferin der bildenden Kunst.
-* XIE Jia 谢佳 (M.A.)
+* XIE Jia 谢佳 
   * Seine Hauptforschungsgebiete sind das Studium moderner chinesischer Zeitungen, das Studium der modernen Literatur des Wu-Sprachraums, der Aufbau mehrsprachiger digitaler Infrastrukturen und das Studium kulturübergreifender digitaler Geisteswissenschaften. Programmierbegeistert.
 
     <br/>

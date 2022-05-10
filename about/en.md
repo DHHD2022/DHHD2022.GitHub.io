@@ -20,13 +20,13 @@ Heidelberg East Asian Digital Humanities (HEADs) is an academic website designed
 # Team members
 Our team consists of three members, all PhD students at the Centre for Asian and Transcultural Studies at the University of Heidelberg, Germany.
 
-* ZHANG Shimin 张诗敏 (MPhil) 
+* ZHANG Shimin 张诗敏  
   * Her main research areas are contemporary Chinese paper culture, affective structures and gender studies, popular music, digital media and platform culture, and contemporary intercultural interaction in East Asia.    
   
-* CHANG Xiaojie 常晓婕 (M.A.) 
+* CHANG Xiaojie 常晓婕  
   * Her main areas of research are Chinese literature, literary translation and computer-assisted translation (Chinese, English and German), psychoanalysis, human geography, and virtual community culture. She is a creator of visual arts.    
   
-* XIE Jia 谢佳 (M.A.)
+* XIE Jia 谢佳 
   * His main research areas are the study of modern Chinese newspapers, the modern literature of the Wu-speaking area, the construction of multilingual digital infrastructure, and the study of transcultural digital humanities. He is also a programming enthusiast.
 
 <br/>
