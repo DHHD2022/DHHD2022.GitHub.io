@@ -29,7 +29,7 @@ Unser Team besteht aus drei Mitgliedern, allesamt Doktoranden am Zentrum für As
 * XIE Jia 谢佳 
   * Seine Hauptforschungsgebiete sind das Studium moderner chinesischer Zeitungen, das Studium der modernen Literatur des Wu-Sprachraums, der Aufbau mehrsprachiger digitaler Infrastrukturen und das Studium kulturübergreifender digitaler Geisteswissenschaften. Programmierbegeistert.
 
-    <br/>
+<br/>
 
 # Zusammenarbeit
 
