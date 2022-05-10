@@ -3,8 +3,10 @@ layout: about
 title: 关于我们 
 ---
 
-<div style="text-align: center">(Choose the language of this page:  <a href="https://dhhd2022.github.io/about/en">English</a> / [繁體中文] / [German] / [日本語])</div>
-    
+<div style="text-align: center">(Choose the language of this page:  <a href="https://dhhd2022.github.io/about/en">English</a> / 繁體中文 / Deutsch / 日本語)</div>
+   
+   <br/>
+   
 # 数据发布
 
 我们最近发起的项目：[“数字人文领域学术术语翻译词典”](https://github.com/xiejia1995/DH-terms-translation-dictionary)，数据开放获取，为DH领域内的中文翻译提供参考。
