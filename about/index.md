@@ -3,7 +3,7 @@ layout: about
 title: 关于我们 
 ---
 
-(You may switch to [EN](https://dhhd2022.github.io/about/en) version of this page.)
+<div style="text-align: center">(Choose the language of this page:  [English](https://dhhd2022.github.io/about/en) / [繁體中文] / [German] / [日本語])</div>
     
 # 数据发布
 
