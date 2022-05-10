@@ -5,7 +5,7 @@ title: About us
 ---
 
 <div style="text-align: center">(Choose the language of this page:  <a href="https://dhhd2022.github.io/about/en">English</a> / <a href="https://dhhd2022.github.io/about/zh">繁體中文</a>  / <a href="https://dhhd2022.github.io/about/de">Deutsch</a> / <a href="https://dhhd2022.github.io/about/jp">日本語)</a></div>
-
+<br/>
 # Data Release
 Our recently launched project: [“DH-terms-translation-dictionary”](https://github.com/xiejia1995/DH-terms-translation-dictionary), Open Access, as a reference for Chinese translations within the DH field.
 
