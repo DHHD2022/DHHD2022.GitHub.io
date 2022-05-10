@@ -24,15 +24,19 @@ title: 关于我们
 <br/>
 
 # 团队成员
-* ZHANG Shimin 
-* CHANG Xiaojie 
-* XIE Jia
-  * 三人均为德国海德堡大学亚洲与跨文化研究中心博士生
+我们团队共有三名成员，均为德国海德堡大学亚洲与跨文化研究中心（Centre for Asian and Transcultural Studies）博士生。
+
+* ZHANG Shimin (MPhil) 
+  * 主要研究领域为中国当代杂志，女性研究，流行音乐与社交文化数字平台。
+* CHANG Xiaojie (MA) 
+  * 
+* XIE Jia (MA)
+  * 正在积极探索数字人文研究，以及近代报刊研究。
 
 <br/>
 
 # 学术合作
-我们团队正在积极寻找资助。如果您觉得我们的平台有合作潜力，欢迎来信至DHHD2022@protonmail.com商讨合作事宜。
+我们团队积极接受合作和资助，欢迎有意者来信至DHHD2022@protonmail.com商讨合作事宜。
 
 <br/>
 
