@@ -9,7 +9,7 @@ title: 關於我們
 
 # 數據發布
 
-我們最近發起的項目：[“數字人文領域學術術語翻譯詞典”](https://github.com/xiejia1995/DH-terms-translation-dictionary)，數據開放獲取，為DH領域內的中文翻譯提供參考。
+我們最近發起的項目：[“數字人文領域學術術語翻譯詞典”](https://github.com/xiejia1995/DH-terms-translation-wordbook)，數據開放獲取，為DH領域內的中文翻譯提供參考。
 
 <br/>
 
