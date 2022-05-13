@@ -9,7 +9,7 @@ title: über uns
 
 # Datenfreigabe
 
-Unser kürzlich gestartetes Projekt ["DH Terms Translation Dictionary"](https://github.com/xiejia1995/DH-terms-translation-wordbook) mit offenem Zugang zu den Daten bietet eine Referenz für chinesische Übersetzungen im Bereich der digitalen Geisteswissenschaften.
+Unser kürzlich gestartetes Projekt ["DH Terms Translation Wordbook"](https://github.com/xiejia1995/DH-terms-translation-wordbook) mit offenem Zugang zu den Daten bietet eine Referenz für chinesische Übersetzungen im Bereich der digitalen Geisteswissenschaften.
 
 <br/>
 
