@@ -13,11 +13,13 @@ title: 资源索引
 
 # 实用平台
 * 综合平台 
+  * [Open Methods](https://openmethods.dariah.eu/) 数字人文方法和工具
   * [Docusky](https://docusky.org.tw/DocuSky/home/v5/) 國立台灣大學數位人文研究中心
   * [北京大学开放研究数据平台](https://opendata.pku.edu.cn/) 北京大学
   * [鏈結開放資料平台](https://data.ascdc.tw/) 台灣中央研究院數位文化中心 
   * [中央研究院數位人文研究平台](https://dh.ascdc.sinica.edu.tw/) 台灣中央研究院數位文化中心
   * [上海图书馆开放数据平台](http://data.library.sh.cn/index)
+
 * 古籍研读
   * [“汉典重光”古籍数字化平台](https://wenyuan.aliyun.com/home) 由阿里巴巴、川大、国图等共建
   * [“吾与点”古籍自动整理系统](https://wyd.kvlab.org/) 北京大学数字人文研究中心
@@ -59,7 +61,6 @@ title: 资源索引
 * 国际
   * [ENP-China](https://www.enpchina.eu/)
   * [海德堡大学HRA](http://hra.uni-hd.de/)
-  * [Open Methods](https://openmethods.dariah.eu/) 数字人文方法和工具
   * [关西大学東アジアDHポータル](https://www.dh.ku-orcas.kansai-u.ac.jp/)
   * [The Digital Orientalist](https://digitalorientalist.com/)
   * [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/)
