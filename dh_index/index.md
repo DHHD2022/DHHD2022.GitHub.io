@@ -59,6 +59,7 @@ title: 资源索引
 * 国际
   * [ENP-China](https://www.enpchina.eu/)
   * [海德堡大学HRA](http://hra.uni-hd.de/)
+  * [Open Methods](https://openmethods.dariah.eu/) 数字人文方法和工具
   * [关西大学東アジアDHポータル](https://www.dh.ku-orcas.kansai-u.ac.jp/)
   * [The Digital Orientalist](https://digitalorientalist.com/)
   * [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/)
