@@ -14,7 +14,7 @@ categories: dh_blog
 
 ▾ 中译：新日本古典籍综合数据库
 
-▾ 链接：[点击这里](https://www.kotenseki.nijl.ac.jp/)
+▾ 链接：[点击这里](https://kotenseki.nijl.ac.jp/)
 
 
 ## 简介
